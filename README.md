@@ -6,21 +6,21 @@
 [![Apache-2 licensed](https://img.shields.io/crates/l/rgb-wallet)](./LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-## What's `bitcoinOS`
+## O que é o `BITcoinOS`
 
-`bitcoinOS` is an innovative project that combines `Bitcoin` with `AI`. It serves as a `Bitcoin Layer2` asset issuance and management system, incorporating the security of `Bitcoin`, the privacy and smart contract capabilities of `RGB`, and the linear scalability of the `ICP` network. Additionally, it provides individual data sovereignty and data assets, supporting AI innovation platforms with the capability to utilize `GPT` Large Language Models.
+bitcoinOS é um projeto inovador que combina Bitcoin com IA. Ele serve como um sistema de emissão e gerenciamento de ativos Bitcoin Layer2, incorporando a segurança do Bitcoin, os recursos de privacidade e contratos inteligentes do RGB e a escalabilidade linear da rede ICP. Além disso, fornece soberania de dados individuais e ativos de dados, apoiando plataformas de inovação de IA com capacidade de utilizar grandes modelos de linguagem GPT.
 
-`Bitcoin` is a peer-to-peer electronic cash system designed to create a decentralized financial ecosystem, providing individuals with sovereignty over their identity and digital assets. 
+Bitcoin é um sistema de dinheiro eletrônico peer-to-peer projetado para criar um ecossistema financeiro descentralizado, proporcionando aos indivíduos soberania sobre sua identidade e ativos digitais.
 
-`bitcoinOS`, on the other hand, takes `Bitcoin` as its core and adds sovereignty protection for data assets on top of it. `bitcoinOS` is a modular blockchain network that uses Bitcoin L1 as the settlement layer and builds Bitcoin L2: `Fastnet` with `RGB` smart contracts and `ICP` network technology at its core. 
+O bitcoinOS, por outro lado, toma o Bitcoin como seu núcleo e adiciona proteção de soberania para ativos de dados. bitcoinOS é uma rede blockchain modular que usa Bitcoin L1 como camada de liquidação e constrói Bitcoin L2: Fastnet com contratos inteligentes RGB e tecnologia de rede ICP em seu núcleo.
 
-While the `Bitcoin` network primarily focuses on asset platforms and payment applications, `bitcoinOS` expands the scope of Bitcoin's ecosystem and enhances user experience by fully integrating Bitcoin L1 assets and combining them with the ICP network through the `SmartWallet`.
+Embora a rede Bitcoin se concentre principalmente em plataformas de ativos e aplicações de pagamento, o bitcoinOS expande o escopo do ecossistema Bitcoin e melhora a experiência do usuário integrando totalmente os ativos Bitcoin L1 e combinando-os com a rede ICP através da SmartWallet.
 
-`bitcoinOS` maintains the identity and asset sovereignty of Bitcoin while also increasing support and protection for data sovereignty, enhancing privacy and scalability, thereby facilitating rapid payments and transactions for all Bitcoin assets.
+O bitcoinOS mantém a identidade e a soberania dos ativos do Bitcoin, ao mesmo tempo que aumenta o suporte e a proteção à soberania dos dados, melhorando a privacidade e a escalabilidade, facilitando assim pagamentos e transações rápidas para todos os ativos do Bitcoin.
 
-In the era of artificial intelligence, data is considered the most important means of production and factor. Through data sovereignty provided by `bitcoinOS`, legitimate data owners are given the first step of protection. 
+Na era da inteligência artificial, os dados são considerados o meio de produção e fator mais importante. Através da soberania dos dados fornecida pelo bitcoinOS, os proprietários legítimos dos dados recebem o primeiro passo de proteção.
 
-Similar to Bitcoin's empowerment of identity and currency, `bitcoinOS's` data empowerment can activate innovation for everyone by utilizing massive data with Large Language Models (`LLMs`) or Large World Models (`LWMs`). This not only promotes the rapid integration of Web2 and Web3 but also drives the widespread adoption of Bitcoin and blockchain technology.
+Semelhante ao empoderamento de identidade e moeda do Bitcoin, o empoderamento de dados do bitcoinOS pode ativar a inovação para todos, utilizando dados massivos com Large Language Models (LLMs) ou Large World Models (LWMs). Isto não só promove a rápida integração da Web2 e Web3, mas também impulsiona a ampla adoção da tecnologia Bitcoin e blockchain.
 
 [White paper](./whitepaper/bitcoinOS-whitepaper.pdf)
 
